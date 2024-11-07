@@ -1,22 +1,18 @@
 # NAME: jiaoyi 全球比特币交易所
 
 DOMAIN-SUFFIX,appsflayer.com
-DOMAIN-SUFFIX,binance.cloud
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,binancecnt.com
-DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-KEYWORD,binance
 DOMAIN-SUFFIX,bnappzh.co
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.com
-DOMAIN-SUFFIX,okex.com
+DOMAIN-KEYWORD,okex
 DOMAIN-SUFFIX,oklink.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,gate.io
-DOMAIN-SUFFIX,mexc.com
+DOMAIN-KEYWORD,okx
+DOMAIN-KEYWORD,gate
+DOMAIN-KEYWORD,mexc
 DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,xt.com
